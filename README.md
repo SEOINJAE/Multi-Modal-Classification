@@ -3,4 +3,5 @@ NLP and Image Fashion item Classification
 
 
 
-![model](https://user-images.githubusercontent.com/69412493/229341008-2139e2d4-d553-48ec-af0c-9e5b283b539f.jpeg)
+
+![model](https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg)
