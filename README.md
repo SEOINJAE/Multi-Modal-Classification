@@ -26,7 +26,7 @@ NLP and Image Fashion item Classification
 
 
 # Architecture
-![model](https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg)
+<!-- ![model](https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg) -->
 
 
-<img src="https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg" width="250" height="250"/>
