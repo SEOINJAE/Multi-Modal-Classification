@@ -16,7 +16,7 @@ NLP and Image Fashion item Classification
 
 - 딥러닝 모델 구성에서의 문제점 및 해결방안
 
-|문제점|해결방안|내ㅇ|
+|**문제점**|**해결방안**|**내용**|
 |---|---|---|
 |이커머스 데이터의 특성상 극도로 데이터가 편향되어있다.|언더샘플링|일부 데이터 삭제|
 |패션 이커머스 대표 이미지에는 모델이 제품과 함께 등장해 딥러닝 모델이 인식하기 힘든 어려움이 있다.|멀티모달|노이즈 영향도 줄임|
@@ -27,3 +27,6 @@ NLP and Image Fashion item Classification
 
 # Architecture
 ![model](https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg)
+
+
+<img src="https://user-images.githubusercontent.com/69412493/229341127-71ec40a3-6948-41f7-9877-bd5492daa2c1.jpeg" width="50" height="50"/>
